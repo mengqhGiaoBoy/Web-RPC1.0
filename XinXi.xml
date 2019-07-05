@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <package name="com.tedu.issue">
+        <className name="UserService">
+            <methodName name="handler">
+                <param>String</param>
+                <returnParam>void</returnParam>
+            </methodName>
+        </className>
+    </package>
+    <package name="com.tedu.issue">
+        <className name="OrderService">
+            <methodName name="modelOne">
+                <param>String</param>
+                <returnParam>Date</returnParam>
+            </methodName>
+            <methodName name="modelTwo">
+                <param>Integer</param>
+                <param>String</param>
+                <returnParam>Date</returnParam>
+            </methodName>
+        </className>
+    </package>
+</root>
